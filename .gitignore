@@ -15,5 +15,6 @@
 # vendor/
 
 # Personal stuff
-get_access_token.sh
+httpie_scripts/
 .env
+example_entries.json

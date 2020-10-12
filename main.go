@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"time"
 	"github.com/rivo/tview"
+	"encoding/json"
 )
 
 const refreshInterval = 500 * time.Millisecond
